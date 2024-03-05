@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://saranshprasad.io)
+
 <h1 align="center">Hi 👋, I'm Saransh Bari</h1>
 <h3 align="center">Just a curious boy having potential to fulfill his dreams.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
