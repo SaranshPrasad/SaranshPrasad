@@ -1,38 +1,40 @@
 # 👋 Hi, I’m Saransh Prasad Bari  
-Aspiring Full-Stack Developer | React.js · Node.js · MongoDB  
+Aspiring Full-Stack Developer | MERN Stack · React.js · Node.js · MongoDB  
 Ranchi, India · Available for Internship / Entry-Level Roles from Jan 2026
 
 ---
 
 ## 🛠 Tech Stack  
-React.js • Node.js • Express • MongoDB • JavaScript • REST APIs • HTML • CSS • Tailwind / Bootstrap • Git / GitHub
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, PostgreSQL 
+- **Other Tools:** Git, GitHub, Postman, Figma, Vercel, Netlify  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 | Project | What It Does | Tech / Learnings | Live / Demo Link |
 |---|---|---|---|
-| **MovieMania** | A movie search app with TMDB API, search, filter & responsive UI | React + Axios + API routing + responsive design | [Demo link] |
-| **Alumini-Connect** (Frontend & Backend) | A platform to connect alumni of colleges with networking features | MERN (React + Node + Express + MongoDB) | [GitHub link] |
-| **Dev-Tinder** | Mock dating-style swiping UI for practice in animations & React state | React + CSS + hooks | [Demo / link] |
-| **Connect_ED** | Educational resource platform; CRUD, user features | MERN stack; worked on authentication, database design | [GitHub link] |
+| **The Devloopers** | Official club website with dynamic content, member showcase, and responsive design | React.js + TailwindCSS + Node.js |<a href="https://the-dev-loopers.vercel.app/" target="_blank"> Link|
+| **MovieMania** | Movie search & discovery app using TMDB API with filters and responsive UI | React.js + Axios + API integration | <a href="https://github.com/SaranshPrasad/MovieMania" target="_blank"> Link |
+| **Connect_ED** | Educational resource sharing platform with user auth, CRUD, and database features | MERN stack |<a href="https://connect-ed-mmjw.onrender.com/" target="_blank"> Link |
+| **ApplyMyJob** | A SaaS application for auto-applying to jobs. | React.js + CSS + Hooks | <a href="https://github.com/SaranshPrasad/ApplyMyJob" target="_blank"> Link  |
 
 ---
 
 ## 🔍 What I’m Working On  
-- Improving code quality & project architecture <br>  
-- Learning about testing in React (Jest / React Testing Library) <br>  
-- Deepening knowledge of algorithms and data structures
+- Building polished, production-ready MERN applications  
+- Adding unit testing with **Jest & React Testing Library**  
+- Strengthening Data Structures & Algorithms (DSA)  
 
 ---
 
-## 📫 How to Reach Me  
-- LinkedIn: [in/saranshprasadbari] <br>  
-- Email: saranshprasad08@gmail.com <br>  
-- GitHub: this profile  
+## 📫 Let’s Connect  
+- 💼 LinkedIn: [linkedin.com/in/saranshprasadbari](https://www.linkedin.com/in/saranshprasadbari/)  
+- 📧 Email: **saranshprasad08@gmail.com**  
+- 💻 GitHub: [github.com/SaranshPrasad](https://github.com/SaranshPrasad)  
 
 ---
 
-⭐ Fun fact: I love solving coding puzzles — and I believe curiosity + consistency build great software.
-
+⭐ *Curiosity + Consistency = Growth. I’m passionate about solving problems and creating impactful digital solutions.*
