@@ -39,7 +39,7 @@ Currently working at **ITGENIXS PVT LTD**, where I develop and maintain backend 
 | **Backend** | Node.js, Express.js, REST APIs, Socket.IO, JWT Authentication, Redis |
 | **Frontend** | React.js, JavaScript (ES6+), TailwindCSS, HTML5, CSS3, Bootstrap |
 | **Database** | MongoDB, PostgreSQL |
-| **Tools & DevOps** | Git, GitHub, Postman, Render, Vercel, Netlify, Docker (Learning), Figma |
+| **Tools & DevOps** | Git, GitHub, Postman, Render, Vercel, Netlify, Docker, Figma, AWS |
 
 ---
 
@@ -47,11 +47,11 @@ Currently working at **ITGENIXS PVT LTD**, where I develop and maintain backend 
 
 | Project | Description | Key Features | Tech Stack | Link |
 |---|---|---|---|---|
-| **🎵 PlayMate** | Real-time social music platform with AI-powered recommendations and live sessions | Live group music listening, Socket.IO chats, reels-style feed, AI mood-based song recommendations using Gemini AI & YouTube API | Node.js, Express.js, React.js, MongoDB, Socket.IO, Gemini AI, YouTube API | GitHub Repo |
+| **🎵 PlayMate** | Real-time social music platform with AI-powered recommendations and live sessions | Live group music listening, Socket.IO chats, reels-style feed, AI mood-based song recommendations using Gemini AI & YouTube API | Node.js, Express.js, React.js, MongoDB, Socket.IO, Gemini AI, YouTube API | https://play-mate-self.vercel.app/ |
 | **🎓 Connect_ED** | Student & alumni networking platform to bridge communication and collaboration gaps | Skill-based profile matching, real-time chatting, authentication, networking system | MERN Stack, Socket.IO, MongoDB | https://connect-ed-mmjw.onrender.com/ |
 | **🥛 MilkMates** | Full-stack platform for connecting local milk vendors with customers digitally | Vendor-customer system, order management, authentication, product management | React.js, Node.js, Express.js, MongoDB | GitHub Repo |
 | **🛒 Hyperlocal Marketplace Backend** | Production-grade scalable backend architecture for a multi-module mobile marketplace application | Vendor/customer/delivery/admin modules, Redis caching, payment gateways, OTP verification, secure APIs, rate limiting | Node.js, Express.js, MongoDB, Redis, JWT | Professional Work |
-| **💪 Fitness Coach Lead Generation Website** | Freelance lead-generation website for a fitness coach client | Responsive UI, branding-focused landing pages, lead capture forms | React.js, TailwindCSS | Client Project |
+| **💪 Fitness Coach Lead Generation Website** | Freelance lead-generation website for a fitness coach client | Responsive UI, branding-focused landing pages, lead capture forms | React.js, TailwindCSS | https://fitwithdb.in/ |
 | **🌐 React Portfolio Website** | Modern responsive portfolio website built for freelance work | Responsive design, performance optimization, clean UI/UX | React.js, CSS | Portfolio Project |
 
 ---
