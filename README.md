@@ -3,7 +3,7 @@
 ### Full Stack Developer | MERN Stack Developer
 
 📍 West Bengal, India  
-🎓 Bachelor of Computer Applications (BCA)  -   8.62 CGPA
+🎓 Bachelor of Computer Applications (BCA)  
 💻 Passionate about building scalable web applications and solving real-world problems through technology.
 
 ---
@@ -20,42 +20,103 @@ My main focus is on writing clean, maintainable code and building products that 
 
 ## 🛠️ Tech Stack
 
-### Main Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, Postman
+### 🎨 Frontend
 
-### Programming Languages
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
 
-JavaScript • Python • Java (Basics) • C • C++
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database & Tools
+
+- MongoDB
+- Git
+- GitHub
+- Postman
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+- JavaScript
+- Python
+- Java *(Basics)*
+- C / C++
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ⚡ Quak
 
 A quick-commerce platform designed to connect customers, vendors, and administrators through a complete application ecosystem.
 
-**Key Features:**
+<details>
+<summary><b>▶ View Project Details</b></summary>
 
-- Customer and Vendor APIs
+<br>
+
+**Key Features**
+
+- Customer APIs
+- Vendor APIs
 - Order Management System
 - Admin Dashboard
-- Authentication and Authorization
-- Product and Order Management
+- Authentication & Authorization
+- Product & Order Management
 
-**Tech Stack:** React Native, Node.js, Express.js, MongoDB
+**Tech Stack**
 
----
+React Native • Node.js • Express.js • MongoDB
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📚 StacX
 
 An academic resource sharing and collaboration platform designed for students to share resources and connect with each other.
 
-**Key Features:**
+<details>
+<summary><b>▶ View Project Details</b></summary>
+
+<br>
+
+**Key Features**
 
 - User Authentication
 - Role-Based Access Control
@@ -63,34 +124,96 @@ An academic resource sharing and collaboration platform designed for students to
 - REST APIs
 - Real-Time Communication
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO
+**Tech Stack**
+
+React.js • Node.js • Express.js • MongoDB • Socket.IO
+
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
+<details>
+<summary><b>📊 Show GitHub Stats</b></summary>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaranshPrasad&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaranshPrasad&theme=tokyonight" />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SaranshPrasad&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SaranshPrasad&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SaranshPrasad&show_icons=true&theme=default&hide_border=true"
+    alt="Saransh's GitHub Stats"
+  />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaranshPrasad&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaranshPrasad&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SaranshPrasad&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
+</picture>
+
 </p>
+
+</details>
 
 ---
 
 ## 🎯 Currently Focused On
+
+<details>
+<summary><b>▶ Click to expand</b></summary>
+
+<br>
 
 - Building Full Stack Applications
 - Improving Backend Development Skills
 - Learning Better System Design Practices
 - Writing Clean and Scalable Code
 
+</details>
+
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/saranshprasadbari/
-- 💻 GitHub: https://github.com/SaranshPrasad
-- 📧 Email: prasadbari.saransh@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/saranshprasadbari/">
+    LinkedIn
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/SaranshPrasad">
+    GitHub
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:prasadbari.saransh@gmail.com">
+    Email
+  </a>
+</p>
 
 ---
 
